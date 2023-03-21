@@ -1,0 +1,15 @@
+C:\Users\vazqu\source\repos\EjercicioPracticoHerencia\bin\Debug\net6.0\EjercicioPracticoHerencia.exe
+C:\Users\vazqu\source\repos\EjercicioPracticoHerencia\bin\Debug\net6.0\EjercicioPracticoHerencia.deps.json
+C:\Users\vazqu\source\repos\EjercicioPracticoHerencia\bin\Debug\net6.0\EjercicioPracticoHerencia.runtimeconfig.json
+C:\Users\vazqu\source\repos\EjercicioPracticoHerencia\bin\Debug\net6.0\EjercicioPracticoHerencia.dll
+C:\Users\vazqu\source\repos\EjercicioPracticoHerencia\bin\Debug\net6.0\EjercicioPracticoHerencia.pdb
+C:\Users\vazqu\source\repos\EjercicioPracticoHerencia\obj\Debug\net6.0\EjercicioPracticoHerencia.csproj.AssemblyReference.cache
+C:\Users\vazqu\source\repos\EjercicioPracticoHerencia\obj\Debug\net6.0\EjercicioPracticoHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vazqu\source\repos\EjercicioPracticoHerencia\obj\Debug\net6.0\EjercicioPracticoHerencia.AssemblyInfoInputs.cache
+C:\Users\vazqu\source\repos\EjercicioPracticoHerencia\obj\Debug\net6.0\EjercicioPracticoHerencia.AssemblyInfo.cs
+C:\Users\vazqu\source\repos\EjercicioPracticoHerencia\obj\Debug\net6.0\EjercicioPracticoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\vazqu\source\repos\EjercicioPracticoHerencia\obj\Debug\net6.0\EjercicioPracticoHerencia.dll
+C:\Users\vazqu\source\repos\EjercicioPracticoHerencia\obj\Debug\net6.0\refint\EjercicioPracticoHerencia.dll
+C:\Users\vazqu\source\repos\EjercicioPracticoHerencia\obj\Debug\net6.0\EjercicioPracticoHerencia.pdb
+C:\Users\vazqu\source\repos\EjercicioPracticoHerencia\obj\Debug\net6.0\EjercicioPracticoHerencia.genruntimeconfig.cache
+C:\Users\vazqu\source\repos\EjercicioPracticoHerencia\obj\Debug\net6.0\ref\EjercicioPracticoHerencia.dll
